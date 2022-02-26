@@ -1,2 +1,0 @@
-This ia a Mini todo list web application.
-Languages used - HTML,CSS,JS
